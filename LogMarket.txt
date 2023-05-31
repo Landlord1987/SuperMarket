@@ -1,0 +1,84 @@
+мая 31, 2023 10:25:31 PM org.example.Classes.Market <init>
+INFO: StartLogMarket
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Boris клиент пришел в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Boris клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Dasha клиент пришел в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Dasha клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Prezident клиент пришел в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Prezident клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Tax audit клиент пришел в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Tax audit клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Vika клиент пришел за акционным товаром в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Vika клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market acceptToMarket
+INFO: Sasha клиент пришел за акционным товаром в магазин
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueue
+INFO: Sasha клиент добавлен в очередь
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Boris клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Dasha клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Prezident клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Tax audit клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Vika клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeOrder
+INFO: Sasha клиент сделал заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market giveOrder
+INFO: Tax audit клиент получил свой заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market giveOrder
+INFO: Vika клиент получил акционный заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market giveOrder
+INFO: Sasha Аукционный товар закончился 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Boris клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Dasha клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Prezident клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Tax audit клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Vika клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Sasha клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Boris клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Dasha клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Prezident клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Tax audit клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Vika клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Sasha клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market returnToMarket
+INFO: Boris клиент пришел в магазин что бы вернуть товар
+мая 31, 2023 10:25:31 PM org.example.Classes.Market takeInQueueReturn
+INFO: Boris клиент добавлен в очередь возврата товара
+мая 31, 2023 10:25:31 PM org.example.Classes.Market giveOrder
+INFO: Tax audit клиент получил свой заказ 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueue
+INFO: Tax audit клиент ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Tax audit клиент ушел из магазина
+мая 31, 2023 10:25:31 PM org.example.Classes.Market returnOrder
+INFO: Boris клиент вернул товар 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromQueueReturn
+INFO: Boris клиент, вернувший товар, ушел из очереди 
+мая 31, 2023 10:25:31 PM org.example.Classes.Market releaseFromMarket
+INFO: Boris клиент ушел из магазина
